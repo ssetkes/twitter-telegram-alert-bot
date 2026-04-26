@@ -20,13 +20,3 @@ A **Python bot** that monitors a specific Twitter account and sends **real-time 
   → required to use the `search/recent` endpoint
 - A Telegram bot via [@BotFather](https://t.me/BotFather)
 - Your Telegram `chat_id` (user or group)
-
----
-
-## ⚙️ Setup
-
-### 🔁 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/twitter-telegram-alert-bot.git
-cd twitter-telegram-alert-bot
